@@ -1,0 +1,15 @@
+{
+    "plugins": [
+        "ims"
+    ],
+    "env": {
+        "es6": true,
+        "browser": true,
+        "node": true,
+        "jquery": true,
+        "mocha": true,
+    },
+    "rules": {
+        "ims/custom-event-name-must-start-with-fe": "warn"
+    },
+}
